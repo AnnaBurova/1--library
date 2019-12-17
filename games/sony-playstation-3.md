@@ -1,5 +1,6 @@
 ## Sony PlayStation 3 Games
 
+- AMY (2012) *Store*
 - Assassin’s Creed (2007)
 - Assassin’s Creed II (2009)
 - Assassin’s Creed: Brotherhood (2010)
@@ -8,6 +9,9 @@
 - Assassin’s Creed IV: Black Flag (2013)
 - Band Hero (2009)
 - Dante’s Inferno (2010)
+- Devil May Cry (2012) *Store*
+- Devil May Cry 2 (2012) *Store*
+- Devil May Cry 3: Dante’s Awakening (2012) *Store*
 - Dragon’s Dogma (2012)
 - Driver: San Francisco (2011)
 - Fallout: New Vegas (2010)
@@ -50,3 +54,5 @@
 - Uncharted 2: Among Thieves (2009)
 - Uncharted 3: Drake’s Deception (2011)
 - Watch Dogs (2014)
+
+- Brainchallenge (2008)
