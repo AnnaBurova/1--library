@@ -73,7 +73,6 @@
 08;;Матрица: Революция;The Matrix Revolutions
 08;;Мир Юрского периода 2;Jurassic World: Fallen Kingdom
 08;;Моя прекрасная няня 2: Жизнь после свадьбы;
-08;;Мстители: Эра Альтрона;Avengers: Age of Ultron
 08;;Несокрушимый Железный человек;The Invincible Iron Man
 08;;Новая машина Майка;Mike's New Car
 08;;Новый Человек-паук;The Amazing Spider-Man
@@ -219,7 +218,6 @@
 10;;Корпорация монстров;Monsters, Inc.
 10;;Криминальное чтиво;Pulp Fiction
 10;;Крошка Енот;
-10;;Кунг-фу Панда;Kung Fu Panda
 10;;Кухня;
 10;;Легенда о МорДу;The Legend of Mor'du
 10;;Ледниковый период 2: Глобальное потепление;Ice Age: The Meltdown
@@ -1229,8 +1227,10 @@
 ;;Явление;The Happening
 ;;Яков лжец;Jakob the Liar
 Мультфильмы;10;Король Лев;The Lion King;1994
+Мультфильмы;10;Кунг-фу Панда;Kung Fu Panda;2008
 Сериалы;10;Пожиратель Богов;God Eater;2015
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
+Фильмы;08;Мстители: Эра Альтрона;Avengers: Age of Ultron;2015
 Фильмы;09;Железный человек 2;Iron Man 2;2010
 Фильмы;09;Железный человек 3;Iron Man Three;2013
 Фильмы;09;Первый мститель: Другая война;Captain America: The Winter Soldier;2014
