@@ -35,7 +35,6 @@
 06;;Покемон: Мьюту против Мью;Gekijoban poketto monsuta - Myutsu no gyakushu
 07;;Возвращение Джафара;The Return of Jafar
 07;;Защитники;
-07;;Книга драконов;Book of Dragons
 07;;Кунг-фу Панда: Праздничный выпуск;Kung Fu Panda Holiday
 07;;Кунг-фу Панда: Секреты неистовой пятерки;Kung Fu Panda: Secrets of the Furious Five
 07;;Лара Крофт: Расхитительница гробниц 2 – Колыбель жизни;Lara Croft Tomb Raider: The Cradle of Life
@@ -61,7 +60,6 @@
 08;;Зена – королева воинов;Xena: Warrior Princess
 08;;Король Лев 3: Акуна Матата;The Lion King 1?
 08;;Красавица и чудовище;Beauty and the Beast
-08;;Легенда о Костоломе;Legend of the Boneknapper Dragon
 08;;Люди в черном 3;Men in Black 3
 08;;Люди Икс: Апокалипсис;X-Men: Apocalypse
 08;;Люди Икс: Дни минувшего будущего;X-Men: Days of Future Past
@@ -107,7 +105,6 @@
 09;;Гарри Поттер и узник Азкабана;Harry Potter and the Prisoner of Azkaban
 09;;День независимости;Independence Day
 09;;Джордж Карлин: Игры с твоим разумом;George Carlin: Playin' with Your Head
-09;;Драконы и всадники Олуха;Dragons: Riders of Berk
 09;;Дюймовочка;Thumbelina
 09;;Женщина-кошка;Catwoman
 09;;Жизнь и приключения Мишки Япончика;
@@ -188,7 +185,6 @@
 10;;Догма;Dogma
 10;;Доктор Кто;Doctor Who
 10;;Долина папоротников: Последний тропический лес;FernGully: The Last Rainforest
-10;;Драконы: Подарок ночной фурии;Dragons: Gift of the Night Fury
 10;;Дэдпул;Deadpool
 10;;Зак и Мири снимают порно;Zack and Miri Make a Porno
 10;;Замерзшая из Майами;New in Town
@@ -1215,9 +1211,12 @@
 ;;Явление;The Happening
 ;;Яков лжец;Jakob the Liar
 Короткометраж;06;Кумир Тридевятого Королевства;Far Far Away Idol;2004
+Короткометраж;07;Книга драконов;Book of Dragons;2011
 Короткометраж;07;Шрэк: Медовый месяц (или Призрак Лорда Фаркуада) 4-D;Shrek 4-D;2003
+Короткометраж;08;Легенда о Костоломе;Legend of the Boneknapper Dragon;2010
 Короткометраж;09;Шрэк мороз, зеленый нос;Shrek the Halls;2007
 Короткометраж;09;Шрэк: Хэллоуин;Scared Shrekless;2010
+Короткометраж;10;Драконы: Подарок ночной фурии;Dragons: Gift of the Night Fury;2011
 Мультфильмы;10;Как приручить дракона;How to Train Your Dragon;2010
 Мультфильмы;10;Король Лев;The Lion King;1994
 Мультфильмы;10;Кунг-фу Панда;Kung Fu Panda;2008
@@ -1225,6 +1224,7 @@
 Мультфильмы;10;Шрэк навсегда;Shrek Forever After;2010
 Мультфильмы;10;Шрэк Третий;Shrek the Third;2007
 Мультфильмы;10;Шрэк;Shrek;2001
+Сериалы;09;Драконы и всадники Олуха;Dragons: Riders of Berk;2012
 Сериалы;10;Пожиратель Богов;God Eater;2015
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
 Фильмы;07;Первый мститель: Противостояние;Captain America: Civil War;2016
