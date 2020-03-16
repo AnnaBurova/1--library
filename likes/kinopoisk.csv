@@ -97,7 +97,6 @@
 09;;Би Муви: Медовый заговор;Bee Movie
 09;;Веном;Venom
 09;;Вживую: Джордж Карлин в УЮК;On Location: George Carlin at USC
-09;;Властелин колец: Две крепости;The Lord of the Rings: The Two Towers
 09;;Власть огня;Reign of Fire
 09;;Гарри Поттер и Кубок огня;Harry Potter and the Goblet of Fire
 09;;Гарри Поттер и Орден Феникса;Harry Potter and the Order of the Phoenix
@@ -167,8 +166,6 @@
 10;;ВАЛЛ·И;WALL·E
 10;;Ван Хельсинг;Van Helsing
 10;;Великая стена;The Great Wall
-10;;Властелин колец: Братство кольца;The Lord of the Rings: The Fellowship of the Ring
-10;;Властелин колец: Возвращение Короля;The Lord of the Rings: The Return of the King
 10;;Военная хроника маленькой девочки: Сага о злой Тане;Youjo Senki
 10;;Гадкие американцы;Ugly Americans
 10;;Гадкий я 2;Despicable Me 2
@@ -1229,8 +1226,12 @@
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
 Фильмы;07;Первый мститель: Противостояние;Captain America: Civil War;2016
 Фильмы;08;Мстители: Эра Альтрона;Avengers: Age of Ultron;2015
+Фильмы;09;Властелин колец: Братство кольца;The Lord of the Rings: The Fellowship of the Ring;2001
+Фильмы;09;Властелин колец: Возвращение Короля;The Lord of the Rings: The Return of the King;2003
+Фильмы;09;Властелин колец: Две крепости;The Lord of the Rings: The Two Towers;2002
 Фильмы;09;Железный человек 2;Iron Man 2;2010
 Фильмы;09;Железный человек 3;Iron Man Three;2013
+Фильмы;09;Зеленая книга;Green Book;2018
 Фильмы;09;Первый мститель: Другая война;Captain America: The Winter Soldier;2014
 Фильмы;09;Первый мститель;Captain America: The First Avenger;2011
 Фильмы;09;Тор 2: Царство тьмы;Thor: The Dark World;2013
