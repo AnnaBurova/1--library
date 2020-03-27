@@ -46,7 +46,6 @@
 08;;Алиса в стране чудес;Alice in Wonderland;
 08;;Астерикс завоевывает Америку;Asterix in America;
 08;;Большой бой Астерикса;Ast?rix et le coup du menhir;
-08;;Гарри Поттер и Принц-полукровка;Harry Potter and the Half-Blood Prince;
 08;;Геракл в подземном царстве;Hercules in the Underworld;
 08;;Геракл и амазонки;Hercules and the Amazon Women;
 08;;Геракл и затерянное королевство;Hercules: The Legendary Journeys - Hercules and the Lost Kingdom;
@@ -67,12 +66,10 @@
 08;;Люди Икс: Первый класс;X-Men: First Class;
 08;;Матрица: Перезагрузка;The Matrix Reloaded;
 08;;Матрица: Революция;The Matrix Revolutions;
-08;;Мир Юрского периода 2;Jurassic World: Fallen Kingdom;
 08;;Моя прекрасная няня 2: Жизнь после свадьбы;;
 08;;Несокрушимый Железный человек;The Invincible Iron Man;
 08;;Новая машина Майка;Mike's New Car;
 08;;Новый Человек-паук;The Amazing Spider-Man;
-08;;Парк Юрского периода 3;Jurassic Park III;
 08;;Покахонтас 2: Путешествие в Новый Свет;Pocahontas II: Journey to a New World;
 08;;Покемон 2000;Gekij?-ban poketto monsut?: Maboroshi no pokemon: Rugia bakutan;
 08;;Покемон;Pok?mon;
@@ -98,10 +95,6 @@
 09;;Веном;Venom;
 09;;Вживую: Джордж Карлин в УЮК;On Location: George Carlin at USC;
 09;;Власть огня;Reign of Fire;
-09;;Гарри Поттер и Кубок огня;Harry Potter and the Goblet of Fire;
-09;;Гарри Поттер и Орден Феникса;Harry Potter and the Order of the Phoenix;
-09;;Гарри Поттер и Тайная комната;Harry Potter and the Chamber of Secrets;
-09;;Гарри Поттер и узник Азкабана;Harry Potter and the Prisoner of Azkaban;
 09;;День независимости;Independence Day;
 09;;Джордж Карлин: Игры с твоим разумом;George Carlin: Playin' with Your Head;
 09;;Дюймовочка;Thumbelina;
@@ -170,7 +163,6 @@
 10;;Гадкие американцы;Ugly Americans;
 10;;Гадкий я 2;Despicable Me 2;
 10;;Гадкий я;Despicable Me;
-10;;Гарри Поттер и философский камень;Harry Potter and the Sorcerer's Stone;
 10;;Геркулес;Hercules;
 10;;Девушка с татуировкой дракона;The Girl with the Dragon Tattoo;
 10;;Джимми Карр: На концерте;Jimmy Carr: In Concert;
@@ -223,7 +215,6 @@
 10;;Матрица;The Matrix;
 10;;Мгла;The Mist;
 10;;Миньоны;Minions;
-10;;Мир Юрского периода;Jurassic World;
 10;;Мулан;Mulan;
 10;;Мышиная охота;Mousehunt;
 10;;Назад в будущее 2;Back to the Future Part II;
@@ -239,8 +230,6 @@
 10;;Оз: Великий и Ужасный;Oz the Great and Powerful;
 10;;Ознакомительный день;Orientation Day;
 10;;Параллельные миры;Sliders;
-10;;Парк Юрского периода 2: Затерянный мир;The Lost World: Jurassic Park;
-10;;Парк Юрского периода;Jurassic Park;
 10;;Первому игроку приготовиться;Ready Player One;
 10;;Пираты Карибского моря: На краю Света;Pirates of the Caribbean: At World's End;
 10;;Пираты Карибского моря: На странных берегах;Pirates of the Caribbean: On Stranger Tides;
@@ -455,8 +444,6 @@
 ;;Вторжение;;
 ;;Гадкий я 3;Despicable Me 3;
 ;;Гамлет;Hamlet;
-;;Гарри Поттер и Дары Смерти: Часть I;Harry Potter and the Deathly Hallows: Part 1;
-;;Гарри Поттер и Дары Смерти: Часть II;Harry Potter and the Deathly Hallows: Part 2;
 ;;Гарфилд 2: История двух кошечек;Garfield: A Tail of Two Kitties;
 ;;Гарфилд в городе;Garfield on the Town;
 ;;Гарфилд в раю;Garfield in Paradise;
@@ -1203,6 +1190,7 @@
 ;;Я;I Am;
 ;;Явление;The Happening;
 ;;Яков лжец;Jakob the Liar;
+Документальный;10;Земля: Один потрясающий день;Earth: One Amazing Day;2017
 Короткометраж;06;Кумир Тридевятого Королевства;Far Far Away Idol;2004
 Короткометраж;07;Книга драконов;Book of Dragons;2011
 Короткометраж;07;Шрэк: Медовый месяц (или Призрак Лорда Фаркуада) 4-D;Shrek 4-D;2003
@@ -1223,22 +1211,35 @@
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
 Фильмы;07;Бегущий в лабиринте: Испытание огнём;Maze Runner: The Scorch Trials;2015
 Фильмы;07;Первый мститель: Противостояние;Captain America: Civil War;2016
+Фильмы;08;Гарри Поттер и Принц-полукровка;Harry Potter and the Half-Blood Prince;2009
+Фильмы;08;Мир Юрского периода 2;Jurassic World: Fallen Kingdom;2018
 Фильмы;08;Мстители: Эра Альтрона;Avengers: Age of Ultron;2015
+Фильмы;08;Парк Юрского периода 3;Jurassic Park III;2001
 Фильмы;09;Бегущий в лабиринте: Лекарство от смерти;Maze Runner: The Death Cure;2018
 Фильмы;09;Бегущий в лабиринте;The Maze Runner;2014
 Фильмы;09;Властелин колец: Братство кольца;The Lord of the Rings: The Fellowship of the Ring;2001
 Фильмы;09;Властелин колец: Возвращение Короля;The Lord of the Rings: The Return of the King;2003
 Фильмы;09;Властелин колец: Две крепости;The Lord of the Rings: The Two Towers;2002
+Фильмы;09;Гарри Поттер и Дары Смерти: Часть I;Harry Potter and the Deathly Hallows: Part 1;2010
+Фильмы;09;Гарри Поттер и Дары Смерти: Часть II;Harry Potter and the Deathly Hallows: Part 2;2011
+Фильмы;09;Гарри Поттер и Тайная комната;Harry Potter and the Chamber of Secrets;2002
 Фильмы;09;Железный человек 2;Iron Man 2;2010
 Фильмы;09;Железный человек 3;Iron Man Three;2013
 Фильмы;09;Зеленая книга;Green Book;2018
 Фильмы;09;Первый мститель: Другая война;Captain America: The Winter Soldier;2014
 Фильмы;09;Первый мститель;Captain America: The First Avenger;2011
 Фильмы;09;Тор 2: Царство тьмы;Thor: The Dark World;2013
+Фильмы;10;Гарри Поттер и Кубок огня;Harry Potter and the Goblet of Fire;2005
+Фильмы;10;Гарри Поттер и Орден Феникса;Harry Potter and the Order of the Phoenix;2007
+Фильмы;10;Гарри Поттер и узник Азкабана;Harry Potter and the Prisoner of Azkaban;2004
+Фильмы;10;Гарри Поттер и философский камень;Harry Potter and the Sorcerer's Stone;2001
 Фильмы;10;Доктор Стрэндж;Doctor Strange;2016
 Фильмы;10;Железный человек;Iron Man;2008
+Фильмы;10;Мир Юрского периода;Jurassic World;2015
 Фильмы;10;Мстители;The Avengers;2012
 Фильмы;10;Невероятный Халк;The Incredible Hulk;2008
+Фильмы;10;Парк Юрского периода 2: Затерянный мир;The Lost World: Jurassic Park;1997
+Фильмы;10;Парк Юрского периода;Jurassic Park;1993
 Фильмы;10;Стражи Галактики. Часть 2;Guardians of the Galaxy Vol. 2;2017
 Фильмы;10;Стражи Галактики;Guardians of the Galaxy;2014
 Фильмы;10;Тор;Thor;2011
