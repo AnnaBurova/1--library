@@ -209,7 +209,6 @@
 10;;Люди Икс;X-Men;
 10;;Мадагаскар 2;Madagascar: Escape 2 Africa;
 10;;Мадагаскар;Madagascar;
-10;;Майор Пэйн;Major Payne;
 10;;Марсианин;The Martian;
 10;;Маска;The Mask;
 10;;Матрица;The Matrix;
@@ -1052,7 +1051,6 @@
 ;;Токийский гуль: Пинто;Tokyo Ghoul: Pinto;
 ;;Толстяк на ринге;Here Comes the Boom;
 ;;Тор: Любовь и гром;Thor: Love and Thunder;
-;;Тор: Рагнарёк;Thor: Ragnarok;
 ;;Тор: Сказания Асгарда;Thor: Tales of Asgard;
 ;;Торчвуд;Torchwood;
 ;;Трансформеры 3: Тёмная сторона Луны;Transformers: Dark of the Moon;
@@ -1161,7 +1159,6 @@
 ;;Чёрная Библия;Baiburu burakku;
 ;;Чёрная Вдова;Black Widow;
 ;;Чёрная Пантера 2;Black Panther II;
-;;Чёрная Пантера;Black Panther;
 ;;Чёрный Адам;Black Adam;
 ;;Шазам!;Shazam!;
 ;;Шан-Чи и легенда десяти колец;Shang-Chi and the Legend of the Ten Rings;
@@ -1215,6 +1212,7 @@
 Фильмы;08;Мстители: Эра Альтрона;Avengers: Age of Ultron;2015
 Фильмы;08;Парк Юрского периода 3;Jurassic Park III;2001
 Фильмы;08;Сабрина юная ведьмочка;Sabrina the Teenage Witch;1996
+Фильмы;08;Чёрная Пантера;Black Panther;2018
 Фильмы;09;Бегущий в лабиринте: Лекарство от смерти;Maze Runner: The Death Cure;2018
 Фильмы;09;Бегущий в лабиринте;The Maze Runner;2014
 Фильмы;09;Властелин колец: Братство кольца;The Lord of the Rings: The Fellowship of the Ring;2001
@@ -1235,6 +1233,7 @@
 Фильмы;10;Гарри Поттер и философский камень;Harry Potter and the Sorcerer's Stone;2001
 Фильмы;10;Доктор Стрэндж;Doctor Strange;2016
 Фильмы;10;Железный человек;Iron Man;2008
+Фильмы;10;Майор Пэйн;Major Payne;1995
 Фильмы;10;Мир Юрского периода;Jurassic World;2015
 Фильмы;10;Мстители;The Avengers;2012
 Фильмы;10;Невероятный Халк;The Incredible Hulk;2008
@@ -1243,6 +1242,7 @@
 Фильмы;10;Парк Юрского периода;Jurassic Park;1993
 Фильмы;10;Стражи Галактики. Часть 2;Guardians of the Galaxy Vol. 2;2017
 Фильмы;10;Стражи Галактики;Guardians of the Galaxy;2014
+Фильмы;10;Тор: Рагнарёк;Thor: Ragnarok;2017
 Фильмы;10;Тор;Thor;2011
 Фильмы;10;Хеллбой: Герой из пекла;Hellboy;2004
 Фильмы;10;Человек-муравей;Ant-Man;2015
