@@ -634,7 +634,6 @@
 ;;Капитан Америка 2: Слишком скорая смерть;Captain America II: Death Too Soon;
 ;;Капитан Америка;Captain America;
 ;;Капитан Америка;Captain America;
-;;Капитан Марвел;Captain Marvel;
 ;;Каратель: Грязная стирка;The Punisher: Dirty Laundry;
 ;;Каратель: Территория войны;Punisher: War Zone;
 ;;Каратель;The Punisher;
@@ -745,7 +744,6 @@
 ;;Моя няня – вампир;My Babysitter's a Vampire;
 ;;Мстители, общий сбор!;Avengers Assemble!;
 ;;Мстители: Величайшие герои Земли;The Avengers: Earth's Mightiest Heroes;
-;;Мстители: Война бесконечности;Avengers: Infinity War;
 ;;Мстители: Всегда вместе;Avengers;
 ;;Мстители: Дисковые войны;Marvel Disk Wars: The Avengers;
 ;;Мстители: Финал;Avengers: Endgame;
@@ -1124,7 +1122,6 @@
 ;;Человек из стали 2;Untitled Superman Project;
 ;;Человек из стали;Man of Steel;
 ;;Человек-волк;The Wolfman;
-;;Человек-муравей и Оса;Ant-Man and the Wasp;
 ;;Человек-муравей;Ant-Man;
 ;;Человек-паук 5000;Spider-Man;
 ;;Человек-паук и его удивительные друзья;Spider-Man and His Amazing Friends;
@@ -1222,7 +1219,9 @@
 Фильмы;09;Железный человек 2;Iron Man 2;2010
 Фильмы;09;Железный человек 3;Iron Man Three;2013
 Фильмы;09;Зеленая книга;Green Book;2018
+Фильмы;09;Капитан Марвел;Captain Marvel;2019
 Фильмы;09;Кредо убийцы;Assassin's Creed;2016
+Фильмы;09;Мстители: Война бесконечности;Avengers: Infinity War;2018
 Фильмы;09;Первый мститель: Другая война;Captain America: The Winter Soldier;2014
 Фильмы;09;Первый мститель;Captain America: The First Avenger;2011
 Фильмы;09;Тор 2: Царство тьмы;Thor: The Dark World;2013
@@ -1245,5 +1244,6 @@
 Фильмы;10;Тор: Рагнарёк;Thor: Ragnarok;2017
 Фильмы;10;Тор;Thor;2011
 Фильмы;10;Хеллбой: Герой из пекла;Hellboy;2004
+Фильмы;10;Человек-муравей и Оса;Ant-Man and the Wasp;2018
 Фильмы;10;Человек-муравей;Ant-Man;2015
 Фильмы;10;Человек-паук: Возвращение домой;Spider-Man: Homecoming;2017
