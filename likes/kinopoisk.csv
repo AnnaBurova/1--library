@@ -28,7 +28,6 @@
 05;;Тор: Молот богов;Hammer of the Gods;
 05;;Шрэк: Триллер;Thriller Night;
 06;;Атлантида 2: Возвращение Майло;Atlantis: Milo's Return;
-06;;Драконы: Гонки бесстрашных. Начало;Dragons: Dawn of the Dragon Racers;
 06;;Затащи меня в Ад;Drag Me to Hell;
 06;;Золушка;Cinderella;
 06;;Кошачий суп;Nekojiru-s?;
@@ -187,7 +186,6 @@
 10;;Интерны;;
 10;;Интуиция;Serendipity;
 10;;Исходный код;Source Code;
-10;;Как приручить дракона 2;How to Train Your Dragon 2;
 10;;Капитан Крюк;Hook;
 10;;Караоке-вечеринка Шрэка на болоте;Shrek in the Swamp Karaoke Dance Party;
 10;;Константин: Повелитель тьмы;Constantine;
@@ -1182,11 +1180,13 @@
 Короткометраж;07;Книга драконов;Book of Dragons;2011
 Короткометраж;07;Шрэк: Медовый месяц (или Призрак Лорда Фаркуада) 4-D;Shrek 4-D;2003
 Короткометраж;08;Легенда о Костоломе;Legend of the Boneknapper Dragon;2010
+Короткометраж;09;Драконы: Гонки бесстрашных. Начало;Dragons: Dawn of the Dragon Racers;
 Короткометраж;09;Шрэк мороз, зеленый нос;Shrek the Halls;2007
 Короткометраж;09;Шрэк: Хэллоуин;Scared Shrekless;2010
 Короткометраж;10;Драконы: Подарок ночной фурии;Dragons: Gift of the Night Fury;2011
 Короткометраж;10;Кунг Фьюри;Kung Fury;2015
 Мультфильмы;09;Кот в сапогах;Puss in Boots;2011
+Мультфильмы;10;Как приручить дракона 2;How to Train Your Dragon 2;2014
 Мультфильмы;10;Как приручить дракона;How to Train Your Dragon;2010
 Мультфильмы;10;Король Лев;The Lion King;1994
 Мультфильмы;10;Кунг-фу Панда;Kung Fu Panda;2008
@@ -1197,6 +1197,7 @@
 Мультфильмы;10;Шрэк;Shrek;2001
 Сериалы;09;Драконы и всадники Олуха;Dragons: Riders of Berk;2012
 Сериалы;10;;Розарио + Вампир;Rozario to banpaia;2008
+Сериалы;10;Драконы: Гонки по краю;Dragons: Race to the Edge;2015
 Сериалы;10;Пожиратель Богов;God Eater;2015
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
 Фильмы;07;Бегущий в лабиринте: Испытание огнём;Maze Runner: The Scorch Trials;2015
