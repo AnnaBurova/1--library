@@ -1,3 +1,5 @@
+10;;Мулан;Mulan;
+10;;Тайны Смолвиля;Smallville;
 __10;;Рапунцель: Новая история;Tangled: The Series;
 ___01;;Возвращение в страну Оз;Return to Oz;
 ___01;;Железный Человек: Темная сторона;Metal Man;
@@ -236,7 +238,6 @@ ___10;;Приключения Флика;A Bug's Life;
 ___10;;Принц Персии: Пески времени;Prince of Persia: The Sands of Time;
 ___10;;Проповедник;Preacher;
 ___10;;Пятый элемент;The Fifth Element;
-___10;;Рапунцель: Новая история;Tangled: The Series;
 ___10;;Рапунцель: Новая история;Tangled: The Series;
 ___10;;Реквием по мечте;Requiem for a Dream;
 ___10;;Рик и Морти;Rick and Morty;
@@ -1166,7 +1167,6 @@ __Big Wolf on Campus
 __Bleach
 __Brave New World
 __Chakra the Invincible(2013) ---|--- 
-__Chakra the Invincible(2013) ---|--- 
 __Chakra the Invincible(мини-сериал, 2015) ---|--- 
 __Chakra the Invincible: The Rise of Infinitus(2016) ---|--- 
 __Charmed
@@ -1514,6 +1514,9 @@ __Юрский период 2014 ---|--- Jurassic
 Короткометраж;10;Драконы: Подарок ночной фурии;Dragons: Gift of the Night Fury;2011
 Короткометраж;10;Кунг Фьюри;Kung Fury;2015
 Мультфильмы;09;Кот в сапогах;Puss in Boots;2011
+Мультфильмы;10;Блич 1;Bleach: Memories of Nobody;2006
+Мультфильмы;10;Блич 2;Gekijô ban Bleach: The DiamondDust Rebellion (Mô hitotsu no hyôrinmaru);2007
+Мультфильмы;10;Блич 3;Gekijô ban Bleach: Fade to Black (Kimi no na o yobu);2008
 Мультфильмы;10;Гравити Фолз;Gravity Falls;2012
 Мультфильмы;10;Как приручить дракона 2;How to Train Your Dragon 2;2014
 Мультфильмы;10;Как приручить дракона;How to Train Your Dragon;2010
@@ -1527,10 +1530,10 @@ __Юрский период 2014 ---|--- Jurassic
 Мультфильмы;10;Шрэк Третий;Shrek the Third;2007
 Мультфильмы;10;Шрэк;Shrek;2001
 Сериалы;09;Драконы и всадники Олуха;Dragons: Riders of Berk;2012
-Сериалы;10;Розарио + Вампир;Rozario to banpaia;2008
 Сериалы;10;Драконы: Гонки по краю;Dragons: Race to the Edge;2015
 Сериалы;10;Интерны;Интерны;2010
 Сериалы;10;Пожиратель Богов;God Eater;2015
+Сериалы;10;Розарио + Вампир;Rozario to banpaia;2008
 Сериалы;10;Токийский гуль;Tokyo Ghoul;2014
 Сериалы;10;Четыре тысячи четыреста;The 4400;2004
 Фильмы;07;Бегущий в лабиринте: Испытание огнём;Maze Runner: The Scorch Trials;2015
@@ -1582,8 +1585,3 @@ __Юрский период 2014 ---|--- Jurassic
 Фильмы;10;Человек-муравей и Оса;Ant-Man and the Wasp;2018
 Фильмы;10;Человек-муравей;Ant-Man;2015
 Фильмы;10;Человек-паук: Возвращение домой;Spider-Man: Homecoming;2017
-10;;Тайны Смолвиля;Smallville;
-10;;Мулан;Mulan;
-Мультфильмы;10;Блич 3;Gekijô ban Bleach: Fade to Black (Kimi no na o yobu);2008
-Мультфильмы;10;Блич 1;Bleach: Memories of Nobody;2006
-Мультфильмы;10;Блич 2;Gekijô ban Bleach: The DiamondDust Rebellion (Mô hitotsu no hyôrinmaru);2007
