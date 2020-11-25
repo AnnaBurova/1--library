@@ -20,3 +20,4 @@
 | Фильмы | X-Men | 2009 | Люди Икс: Начало. Росомаха | X-Men Origins: Wolverine | 8 |
 | Фильмы | X-Men | 2011 | Люди Икс: Первый класс | X-Men: First Class | 8 |
 | Фильмы | X-Men | 2013 | Росомаха: Бессмертный | The Wolverine | 6 |
+| Фильмы | X-Men | 2014 | Люди Икс: Дни минувшего будущего | X-Men: Days of Future Past | 6 |
