@@ -115,3 +115,10 @@
     https://www.kinopoisk.ru/film/977618/
   Путеводитель Диппера по необъяснимому
     https://www.kinopoisk.ru/series/885584/
+
+  Как приручить дракона 3
+  Snoggletog Log
+  Homecoming
+  How to Train Your Dragon 3: The Hidden World
+    https://myshows.me/view/26516/
+    https://www.kinopoisk.ru/film/706655/
