@@ -31,6 +31,7 @@
 | DreamWorks Dragons | 2014 | Короткометраж | Драконы: Гонки бесстрашных. Начало | Dragons: Dawn of the Dragon Racers | 9 |
 | DreamWorks Dragons | 2014 | МультФильм | Как приручить дракона 2 | How to Train Your Dragon 2 | 10 |
 | DreamWorks Dragons | 2015-2018 | МультСериал | Драконы: Гонки по краю | Dragons: Race to the Edge | 10 |
+| DreamWorks Shrek | 2001 | Короткометраж | Караоке-вечеринка Шрека на болоте | Shrek in the Swamp Karaoke Dance Party | 7 |
 | X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
 | X-Men | 2003 | Фильм | Люди Икс 2 | X2 | 9 |
 | X-Men | 2006 | Фильм | Люди Икс: Последняя битва | X-Men: The Last Stand | 8 |
