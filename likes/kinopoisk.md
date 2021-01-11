@@ -59,3 +59,53 @@
 | Marvel X-Men | 2013 | Фильм | Росомаха: Бессмертный | The Wolverine | 6 |
 | Marvel X-Men | 2014 | Фильм | Люди Икс: Дни минувшего будущего | X-Men: Days of Future Past | 6 |
 | Marvel X-Men | 2016 | Фильм | Люди Икс: Апокалипсис | X-Men: Apocalypse | 8 |
+
+## ###
+
+  | DC | 2001-2011 | Сериал | Тайны Смолвиля | Smallville | 10 |
+    8 сезон 7 серия
+    https://myshows.me/view/116/
+    https://www.kinopoisk.ru/series/86193/
+    http://seasonvar.ru/serial-96-Tajni_Smolvilya-8-sezon.html#rewind=7_seriya_na_0_minute_12_sekunde
+
+  Рапунцель
+  Рапунцель: Дорога к мечте;Tangled: Before Ever After;2017;Мультфильмы;10
+    https://www.kinopoisk.ru/film/1026935/
+  Рапунцель: Запутанная история;Tangled;2010;Мультфильмы;10
+    01:00
+    https://hdrezka-ag.com/cartoons/adventures/1359-rapuncel-zaputannaya-istoriya-2010.html
+    https://www.kinopoisk.ru/film/84049/
+  Рапунцель: Новая история;Tangled: The Series;10
+    https://www.kinopoisk.ru/series/970916/
+    https://hdrezka-ag.com/cartoons/fantasy/25892-rapuncel-novaya-istoriya-2017.html#t:56-s:2-e:6
+  Рапунцель: Счастлива навсегда;Tangled Ever After;2012;Короткометраж;08
+    https://www.kinopoisk.ru/film/648419/
+
+  ВАРКРАФТ (2016)
+    00:46
+    https://kinokong.org/13471-smotret-varkraft-2016-smotret-online.html
+
+  Кухня. Последняя битва
+    https://hdrezka-ag.com/films/comedy/24205-kuhnya-poslednyaya-bitva.html
+    https://myshows.me/view/28828/
+
+  Интерны
+    https://myshows.me/view/15271/
+    https://www.kinopoisk.ru/film/747660/
+
+  Токийский гуль
+  Токийский гуль: Джек;Tokyo Ghoul: Jack
+  Токийский гуль: Пинто;Tokyo Ghoul: Pinto
+    https://myshows.me/view/38006/
+    https://www.kinopoisk.ru/film/953181/
+    https://www.kinopoisk.ru/film/1195672/
+    https://www.kinopoisk.ru/film/992351/
+    https://www.kinopoisk.ru/film/989968/
+
+  Гравити Фолз
+    https://myshows.me/view/25561/
+    https://www.kinopoisk.ru/series/591929/
+  Гравити Фолз: Между сосен
+    https://www.kinopoisk.ru/film/977618/
+  Путеводитель Диппера по необъяснимому
+    https://www.kinopoisk.ru/series/885584/
