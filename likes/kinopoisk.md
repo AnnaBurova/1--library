@@ -37,6 +37,7 @@
 | DreamWorks Shrek | 2004 | МультФильм | Шрэк 2 | Shrek 2 | 10 |
 | DreamWorks Shrek | 2007 | Короткометраж | Шрэк мороз, зеленый нос | Shrek the Halls | 9 |
 | DreamWorks Shrek | 2007 | МультФильм | Шрэк Третий | Shrek the Third | 10 |
+| DreamWorks Shrek | 2010 | Короткометраж | Рождественский Шректакль Осла | Donkey's Christmas Shrektacular | 4 |
 | DreamWorks Shrek | 2010 | МультФильм | Шрэк навсегда | Shrek Forever After | 10 |
 | DreamWorks Shrek | 2011 | Короткометраж | Шрек: Триллер | Thriller Night | 7 |
 | X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
