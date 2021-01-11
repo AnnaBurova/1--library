@@ -24,7 +24,6 @@
 
 |-Коллекция-|-Год-|-Раздел-|-Название-(ру)-|-Название-(оригинал)-|-Оценка-|
 |:---|:---:|:---:|:---|:---|:---:|
-- 7 сезон  9 серия - | DC | 2001-2011 | Сериал | Тайны Смолвиля | Smallville | 10 |
 | DreamWorks Dragons | 2010 | Короткометраж | Легенда о Костоломе | Legend of the Boneknapper Dragon | 8 |
 | DreamWorks Dragons | 2010 | МультФильм | Как приручить дракона | How to Train Your Dragon | 10 |
 | DreamWorks Dragons | 2011 | Короткометраж | Драконы: Подарок ночной фурии | Dragons: Gift of the Night Fury | 10 |
