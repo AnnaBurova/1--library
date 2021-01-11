@@ -60,6 +60,11 @@
 | Marvel X-Men | 2013 | Фильм | Росомаха: Бессмертный | The Wolverine | 6 |
 | Marvel X-Men | 2014 | Фильм | Люди Икс: Дни минувшего будущего | X-Men: Days of Future Past | 6 |
 | Marvel X-Men | 2016 | Фильм | Люди Икс: Апокалипсис | X-Men: Apocalypse | 8 |
+| Matt Groening Futurama | 1999-2013 | МультСериал | Футурама | Futurama | 10 |
+| Matt Groening Futurama | 2007 | МультФильм | Футурама: Большой куш Бендера! | Futurama: Bender's Big Score | 9 |
+| Matt Groening Futurama | 2008 | МультФильм | Футурама: Зверь с миллиардом спин | Futurama: The Beast with a Billion Backs | 10 |
+| Matt Groening Futurama | 2008 | МультФильм | Футурама: Игра Бендера | Futurama: Bender's Game | 10 |
+| Matt Groening Futurama | 2009 | МультФильм | Футурама: В дикую зеленую даль | Futurama: Into the Wild Green Yonder | 9 |
 
 ## ###
 
