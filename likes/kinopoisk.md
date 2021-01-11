@@ -34,6 +34,7 @@
 | DreamWorks Shrek | 2001 | Короткометраж | Караоке-вечеринка Шрека на болоте | Shrek in the Swamp Karaoke Dance Party | 7 |
 | DreamWorks Shrek | 2004 | МультФильм | Шрэк 2 | Shrek 2 | 10 |
 | DreamWorks Shrek | 2007 | Короткометраж | Шрэк мороз, зеленый нос | Shrek the Halls | 9 |
+| DreamWorks Shrek | 2007 | МультФильм | Шрэк Третий | Shrek the Third | 10 |
 | DreamWorks Shrek | 2010 | МультФильм | Шрэк навсегда | Shrek Forever After | 10 |
 | X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
 | X-Men | 2003 | Фильм | Люди Икс 2 | X2 | 9 |
