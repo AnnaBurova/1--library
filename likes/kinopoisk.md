@@ -31,6 +31,7 @@
 | -RU- Кухня | 2012-2016 | Сериал | Кухня | -- | 10 |
 | -RU- Кухня | 2014 | Документалка | Кухня Кухни | -- | 10 |
 | -RU- Кухня | 2014 | Фильм | Кухня в Париже | -- | 9 |
+| Anime God Eater | 2015-2016 | МультСериал | Пожиратель Богов | God Eater | 10 |
 | Anime Rosario + Vampire | 2008 | МультСериал | Розарио + Вампир | Rosario + Vampire / Rozario to banpaia | 10 |
 | Anime Tokyo Ghoul | 2014-2018 | МультСериал | Токийский гуль | Tokyo Ghoul | 10 |
 | DreamWorks Dragons | 2010 | Короткометраж | Легенда о Костоломе | Legend of the Boneknapper Dragon | 8 |
