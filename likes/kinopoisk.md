@@ -32,6 +32,7 @@
 | DreamWorks Dragons | 2014 | МультФильм | Как приручить дракона 2 | How to Train Your Dragon 2 | 10 |
 | DreamWorks Dragons | 2015-2018 | МультСериал | Драконы: Гонки по краю | Dragons: Race to the Edge | 10 |
 | DreamWorks Shrek | 2001 | Короткометраж | Караоке-вечеринка Шрека на болоте | Shrek in the Swamp Karaoke Dance Party | 7 |
+| DreamWorks Shrek | 2001 | МультФильм | Шрэк | Shrek | 10 |
 | DreamWorks Shrek | 2003 | Короткометраж | Шрэк 4-D: Медовый месяц | Shrek 4-D: The Ghost of Lord Farquaad | 5 |
 | DreamWorks Shrek | 2004 | МультФильм | Шрэк 2 | Shrek 2 | 10 |
 | DreamWorks Shrek | 2007 | Короткометраж | Шрэк мороз, зеленый нос | Shrek the Halls | 9 |
