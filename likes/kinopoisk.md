@@ -1,5 +1,7 @@
 - [myshows.me](https://myshows.me/annaburova89)
 - [kinopoisk.ru](https://www.kinopoisk.ru/user/2244732/)
+- http://seasonvar.ru/
+- https://hdrezka-ag.com/
 - https://kinokong.org/
 
 - ★01 (0,5) – херово снятое кино, отсутствие элементарных навыков съемки у создателей. Хочется выколоть глаза, настолько это бездарно, глупо и посредственно. Абсолютно не за что зацепиться.
