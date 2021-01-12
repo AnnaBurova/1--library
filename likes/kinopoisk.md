@@ -1,6 +1,7 @@
 1: - [kinopoisk.ru](https://www.kinopoisk.ru/user/2244732/)
 1: - [myshows.me](https://myshows.me/annaburova89)
 1: - http://seasonvar.ru/
+1: - https://goblins-online.ru/
 1: - https://hdrezka-ag.com/
 1: - https://kinokong.org/
 
@@ -68,6 +69,12 @@
 
 ## ###
 
+  Все части "Людей Икс":
+    11  Новые мутанты 2020 год  5.37
+    10  Люди Икс: Тёмный Феникс 2019 год  5.85
+    9 Логан 2017 год
+    https://hdrezka-ag.com/films/fiction/10810-lyudi-iks-apokalipsis-2016.html
+
   | DC | 2001-2011 | Сериал | Тайны Смолвиля | Smallville | 10 |
     8 сезон 7 серия
     https://myshows.me/view/116/
@@ -82,6 +89,7 @@
     https://hdrezka-ag.com/cartoons/adventures/1359-rapuncel-zaputannaya-istoriya-2010.html
     https://www.kinopoisk.ru/film/84049/
   Рапунцель: Новая история;Tangled: The Series;10
+    https://myshows.me/view/51436/
     https://www.kinopoisk.ru/series/970916/
     https://hdrezka-ag.com/cartoons/fantasy/25892-rapuncel-novaya-istoriya-2017.html#t:56-s:2-e:6
   Рапунцель: Счастлива навсегда;Tangled Ever After;2012;Короткометраж;08
@@ -94,6 +102,8 @@
   Кухня. Последняя битва
     https://hdrezka-ag.com/films/comedy/24205-kuhnya-poslednyaya-bitva.html
     https://myshows.me/view/28828/
+  Отель Элеон | Сезон 1 | Серия 1
+    https://www.youtube.com/watch?v=MpWM8lKu_08&ab_channel=%D0%A1%D0%A2%D0%A1
 
   Интерны
     https://myshows.me/view/15271/
@@ -111,6 +121,7 @@
   Гравити Фолз
     https://myshows.me/view/25561/
     https://www.kinopoisk.ru/series/591929/
+    https://www.kinopoisk.ru/series/591929/
   Гравити Фолз: Между сосен
     https://www.kinopoisk.ru/film/977618/
   Путеводитель Диппера по необъяснимому
@@ -122,3 +133,25 @@
   How to Train Your Dragon 3: The Hidden World
     https://myshows.me/view/26516/
     https://www.kinopoisk.ru/film/706655/
+    https://hdrezka-ag.com/cartoons/action/29584-kak-priruchit-drakona-3-2019.html
+
+  Захватывающие рассказы Шрэка
+    https://hdrezka-ag.com/cartoons/fantasy/20174-zahvatyvayuschie-rasskazy-shreka.html
+
+  InuYasha
+    https://jut.su/inu-yasha/season-1/episode-86.html
+    https://myshows.me/view/45421/
+    https://myshows.me/view/1100/
+    https://myshows.me/view/1342/
+    https://myshows.me/view/9416/
+    https://hdrezka-ag.com/animation/adventures/36413-princessy-poludemony-2020.html
+
+  Блич 246 серия
+    https://jut.su/bleeach/episode-246.html
+    https://hdrezka-ag.com/films/fantasy/28521-blich-2018.html
+
+  Сабрина — маленькая ведьма
+    https://www.kinopoisk.ru/series/161261/
+
+  Доктор Кто
+    http://doctor-kto.com/online/11-season/2-seria-11-season.html
