@@ -53,6 +53,7 @@
 | DreamWorks Shrek | 2010 | Короткометраж | Шрек: Хэллоуин | Scared Shrekless | 9 |
 | DreamWorks Shrek | 2010 | МультФильм | Шрэк навсегда | Shrek Forever After | 10 |
 | DreamWorks Shrek | 2011 | Короткометраж | Шрек: Триллер | Thriller Night | 7 |
+| Marvel Avengers | 2008 | Фильм | Железный человек | Iron Man | 10 |
 | Marvel X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
 | Marvel X-Men | 2003 | Фильм | Люди Икс 2 | X2 | 9 |
 | Marvel X-Men | 2006 | Фильм | Люди Икс: Последняя битва | X-Men: The Last Stand | 8 |
