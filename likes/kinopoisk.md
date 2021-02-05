@@ -54,6 +54,13 @@
 | DreamWorks Shrek | 2010 | МультФильм | Шрэк навсегда | Shrek Forever After | 10 |
 | DreamWorks Shrek | 2011 | Короткометраж | Шрек: Триллер | Thriller Night | 7 |
 | Marvel Avengers | 2008 | Фильм | Железный человек | Iron Man | 10 |
+| Marvel Avengers | 2008 | Фильм | Невероятный Халк | The Incredible Hulk | 10 |
+| Marvel Avengers | 2010 | Фильм | Железный человек 2 | Iron Man 2 | 9 |
+| Marvel Avengers | 2011 | Фильм | Первый мститель | Captain America: The First Avenger | 5 |
+| Marvel Avengers | 2011 | Фильм | Тор | Thor | 10 |
+| Marvel Avengers | 2012 | Фильм | Мстители | The Avengers | 7 |
+| Marvel Avengers | 2013 | Фильм | Железный человек 3 | Iron Man Three | 8 |
+| Marvel Avengers | 2013 | Фильм | Тор 2: Царство тьмы | Thor: The Dark World | 9 |
 | Marvel X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
 | Marvel X-Men | 2003 | Фильм | Люди Икс 2 | X2 | 9 |
 | Marvel X-Men | 2006 | Фильм | Люди Икс: Последняя битва | X-Men: The Last Stand | 8 |
@@ -75,9 +82,11 @@
     10  Люди Икс: Тёмный Феникс 2019 год  5.85
     9 Логан 2017 год
     https://hdrezka-ag.com/films/fiction/10810-lyudi-iks-apokalipsis-2016.html
+  Люди Икс: Эволюция
+    https://hdrezka-ag.com/cartoons/fiction/14756-lyudi-iks-evolyuciya.html#t:56-s:3-e:1
 
   | DC | 2001-2011 | Сериал | Тайны Смолвиля | Smallville | 10 |
-    8 сезон 7 серия
+    9 сезон
     https://myshows.me/view/116/
     https://www.kinopoisk.ru/series/86193/
     http://seasonvar.ru/serial-96-Tajni_Smolvilya-8-sezon.html#rewind=7_seriya_na_0_minute_12_sekunde
