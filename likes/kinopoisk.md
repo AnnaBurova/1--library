@@ -3,6 +3,7 @@
 1: - http://seasonvar.ru/
 1: - https://goblins-online.ru/
 1: - https://hdrezka-ag.com/
+1: - https://jut.su/
 1: - https://kinokong.org/
 
 2: - ★01 (0,5) – херово снятое кино, отсутствие элементарных навыков съемки у создателей. Хочется выколоть глаза, настолько это бездарно, глупо и посредственно. Абсолютно не за что зацепиться.
@@ -23,6 +24,25 @@
 3: Сериал
 3: Фильм
 
+
+
+
+
+
+
+Человек-паук: Вдали от дома(2019);Spider-Man: Far from Home
+Человек-паук: Вдали от дома;Spider-Man: Far from Home
+
+
+
+Человек-муравей и Оса(2018);Ant-Man and the Wasp
+Человек-муравей и Оса;Ant-Man and the Wasp;2018;Фильмы;10
+
+Мстители: Война бесконечности(2018);Avengers: Infinity War
+Мстители: Война бесконечности;Avengers: Infinity War;2018;Фильмы;09
+Мстители: Финал(2019);Avengers: Endgame
+Мстители: Финал;Avengers: Endgame
+
 |-Коллекция-|-Год-|-Раздел-|-Название-(ру)-|-Название-(оригинал)-|-Оценка-|
 |:---|:---:|:---:|:---|:---|:---:|
 | -EN- 4400 | 2004-2007 | Сериал | Четыре тысячи четыреста | The 4400 | 10 |
@@ -33,7 +53,9 @@
 | -RU- Кухня | 2014 | Документалка | Кухня Кухни | -- | 10 |
 | -RU- Кухня | 2014 | Фильм | Кухня в Париже | -- | 9 |
 | Anime God Eater | 2015-2016 | МультСериал | Пожиратель Богов | God Eater | 10 |
+| Anime Pokemon | 1998 | МультФильм | Покемон: Мьюту против Мью | Gekijoban poketto monsuta - Myutsu no gyakushu | 6 |
 | Anime Rosario + Vampire | 2008 | МультСериал | Розарио + Вампир | Rosario + Vampire / Rozario to banpaia | 10 |
+| Anime Sailor Moon | 1994 | МультФильм | Красавица-воин Сейлор Мун Эс | Gekijô-ban - Bishôjo senshi Sêrâ Mûn S | 7 |
 | Anime Tokyo Ghoul | 2014-2018 | МультСериал | Токийский гуль | Tokyo Ghoul | 10 |
 | DreamWorks Dragons | 2010 | Короткометраж | Легенда о Костоломе | Legend of the Boneknapper Dragon | 8 |
 | DreamWorks Dragons | 2010 | МультФильм | Как приручить дракона | How to Train Your Dragon | 10 |
@@ -61,6 +83,16 @@
 | Marvel Avengers | 2012 | Фильм | Мстители | The Avengers | 7 |
 | Marvel Avengers | 2013 | Фильм | Железный человек 3 | Iron Man Three | 8 |
 | Marvel Avengers | 2013 | Фильм | Тор 2: Царство тьмы | Thor: The Dark World | 9 |
+| Marvel Avengers | 2014 | Фильм | Первый мститель: Другая война | Captain America: The Winter Soldier | 7 |
+| Marvel Avengers | 2014 | Фильм | Стражи Галактики | Guardians of the Galaxy | 10 |
+| Marvel Avengers | 2015 | Фильм | Мстители: Эра Альтрона | Avengers: Age of Ultron | 10 |
+| Marvel Avengers | 2015 | Фильм | Человек-муравей | Ant-Man | 10 |
+| Marvel Avengers | 2016 | Фильм | Доктор Стрэндж | Doctor Strange | 9 |
+| Marvel Avengers | 2016 | Фильм | Первый мститель: Противостояние | Captain America: Civil War | 8 |
+| Marvel Avengers | 2017 | Фильм | Стражи Галактики. Часть 2 | Guardians of the Galaxy Vol. 2 | 10 |
+| Marvel Avengers | 2017 | Фильм | Тор: Рагнарёк | Thor: Ragnarok | 7 |
+| Marvel Avengers | 2017 | Фильм | Человек-паук: Возвращение домой | Spider-Man: Homecoming | 10 |
+| Marvel Avengers | 2018 | Фильм | Чёрная Пантера | Black Panther | 9 |
 | Marvel X-Men | 2000 | Фильм | Люди Икс | X-Men | 10 |
 | Marvel X-Men | 2003 | Фильм | Люди Икс 2 | X2 | 9 |
 | Marvel X-Men | 2006 | Фильм | Люди Икс: Последняя битва | X-Men: The Last Stand | 8 |
@@ -90,6 +122,7 @@
     https://myshows.me/view/116/
     https://www.kinopoisk.ru/series/86193/
     http://seasonvar.ru/serial-96-Tajni_Smolvilya-8-sezon.html#rewind=7_seriya_na_0_minute_12_sekunde
+    http://seasonvar.ru/serial-478-Tajni_Smolvilya-9-sezon.html
 
   Рапунцель
   Рапунцель: Дорога к мечте;Tangled: Before Ever After;2017;Мультфильмы;10
@@ -102,6 +135,7 @@
     https://myshows.me/view/51436/
     https://www.kinopoisk.ru/series/970916/
     https://hdrezka-ag.com/cartoons/fantasy/25892-rapuncel-novaya-istoriya-2017.html#t:56-s:2-e:6
+    https://hdrezka-ag.com/cartoons/fantasy/25892-rapuncel-novaya-istoriya-2017.html#t:56-s:1-e:17
   Рапунцель: Счастлива навсегда;Tangled Ever After;2012;Короткометраж;08
     https://www.kinopoisk.ru/film/648419/
 
@@ -165,3 +199,7 @@
 
   Доктор Кто
     http://doctor-kto.com/online/11-season/2-seria-11-season.html
+
+https://jut.su/higurashi-no-naku/
+https://jut.su/shingeki-kyojin/season-4/episode-12.html
+https://jut.su/yakusoku-neverland/season-1/episode-1.html
